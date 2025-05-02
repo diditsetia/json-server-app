@@ -1,0 +1,40 @@
+{
+    "onboarding": [
+      {
+        "id": 1,
+        "title": "Gabung dan Nikmati Berbagai Keuntungan"
+      },
+      {
+        "id": 2,
+        "title": "Dapatkan Reward dari Setiap Aktivitas"
+      },
+      {
+        "id": 3,
+        "title": "Tukarkan Reward dengan Hadiah Menarik"
+      },
+      {
+        "id": 4,
+        "title": "Semakin Aktif, Semakin Banyak Manfaat"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "phone": "08123456789",
+        "password": "password123",
+        "name": "John Doe"
+      },
+      {
+        "id": 2,
+        "phone": "08987654321",
+        "password": "adminpass",
+        "name": "Jane Smith"
+      },
+      {
+        "id": 3,
+        "phone": "08987654321",
+        "password": "adminpass",
+        "name": "Jane Smith"
+      }
+    ]
+  }
